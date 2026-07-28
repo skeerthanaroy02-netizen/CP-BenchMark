@@ -1,4 +1,4 @@
-# LPR — LeetCode Profile Rating Analyzer (Core Engine)
+# CP BenchMark (Core Engine)
 
 Console-based Java app that fetches a public LeetCode profile by **username only**
 (no password), scores it out of 10 using a weighted rubric, gives strengths/
